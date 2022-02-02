@@ -1,1 +1,4 @@
 # suicide_rate_project
+This project analyses six countries, one from each continent to address the challenge of suicide rate in their various continent using a country as a sample. We examined each of the independent variables ranging from sex, generation, age, population, Gross domestic product per year, Human development index while the dependent variable is suicide rate.
+Google colab was used because of its flexibility and various recommendations were mad with respect to their individual perculiarity. First,we imported the data and then described each of the dataset relative to each country and recommendation given to curb the rise in suicide rate. 
+Also, inferential statistics was also carried out. the kruskal wallis was used due the fact that our dependent variable is not normally distributed and the spearmanr correlation was used. 
